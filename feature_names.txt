@@ -1,7 +1,0 @@
-num_components
-board_layers
-component_density
-operator_experience
-machine_type_B
-machine_type_C
-shift_Night
